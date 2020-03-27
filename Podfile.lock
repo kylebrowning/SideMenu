@@ -1,0 +1,16 @@
+PODS:
+  - SideMenu (6.4.4)
+
+DEPENDENCIES:
+  - SideMenu (from `.`)
+
+EXTERNAL SOURCES:
+  SideMenu:
+    :path: "."
+
+SPEC CHECKSUMS:
+  SideMenu: e49a7d61d1f50e9bdaa866bbb9fc7d903c6400ed
+
+PODFILE CHECKSUM: 863f183ea1ab6f64dc8553590349c586faf8e4a1
+
+COCOAPODS: 1.8.4
